@@ -1,7 +1,7 @@
 ---
 title: "EE Bright Box default WPA passphrases are not secure"
 layout: page
-permalink: /post/ee-brightbox-default-wpa-passphrases-are-not-secure
+permalink: /post/ee-brightbox-default-wpa-passphrases-are-not-secure/
 ---
 
 ## Background
