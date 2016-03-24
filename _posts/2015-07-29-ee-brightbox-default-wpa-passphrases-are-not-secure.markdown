@@ -30,7 +30,7 @@ And so we have the situation where the majority of home wireless networks out th
 Case in point is the EE Bright Box, the router provided by UK mobile, phone, television and broadband provider EE. Here's an example of what you'll find on the back of the router:
 
 {: .center}
-![ee-brightbox-label.gif]({{ site.baseurl }}/images/ee-brightbox-label.gif)
+![ee-brightbox-label.gif](/images/ee-brightbox-label.gif)
 
 We see the default passphrase for the wireless network this router will present to the world is `gum-sleep-free`.
 
