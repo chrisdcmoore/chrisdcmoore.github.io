@@ -1,0 +1,29 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Chris's Security and Tech Blog
+#email: 
+description: > # this means to ignore newlines until "baseurl:"
+  Information security and technology tales
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://chrisdcmoore.co.uk" # the base hostname & protocol for your site
+twitter_username: chrisdcmoore
+github_username:  chrisdcmoore
+
+permalink: /:title/
+
+# Build settings
+# markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+
+
