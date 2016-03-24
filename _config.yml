@@ -7,11 +7,8 @@
 
 # Site settings
 title: Chris's Security and Tech Blog
-#email: 
-description: > # this means to ignore newlines until "baseurl:"
-  Information security and technology tales
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://chrisdcmoore.co.uk" # the base hostname & protocol for your site
+description: Information security and technology tales
+
 twitter_username: chrisdcmoore
 github_username:  chrisdcmoore
 
@@ -26,4 +23,14 @@ kramdown:
   syntax_highlighter_opts:
     css_class: 'highlight'
 
+sass:
+  style: :expanded
 
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
