@@ -2,7 +2,7 @@
 title: "EE Bright Box default WPA passphrases are not secure"
 layout: page
 permalink: /post/ee-brightbox-default-wpa-passphrases-are-not-secure/
-excerpt: In this post, we look at how secure the WPA2 passphrases that ship with EE Bright Box routers are.
+excerpt: In this post, we look at some default EE Bright Box passphrases that are in the wild, and speculate the out-of-the-box security offered by them.
 ---
 
 ## Background
