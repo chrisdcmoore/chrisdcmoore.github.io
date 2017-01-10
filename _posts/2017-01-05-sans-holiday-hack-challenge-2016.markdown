@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Solving the SANS Holiday Hack Challenge 2016
-permalink: /sans-holiday-hack-challenge-2016/
+permalink: /post/sans-holiday-hack-challenge-2016/
 excerpt: Every year, the folks at Counter Hack Challenges and SANS run a cyber security challenge for people to enjoy over the festive season, and this year it's a corker. In this post, you'll find my crudely written-up solution.
 ---
 
