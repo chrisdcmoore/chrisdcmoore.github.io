@@ -15,7 +15,9 @@
 
     {% include footer.html %}
 
-    {% include analytics.html %}
+    {% if site.port == 443 %}
+        {% include analytics.html %}
+    {% endif %}
   </body>
 
 </html>
