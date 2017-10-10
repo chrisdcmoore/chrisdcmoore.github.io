@@ -18,7 +18,7 @@ _After gaining some traction online, Twitter user [@JaCzekanski](https://twitter
 
 Whilst completing the [SANS Holiday Hack Challenge 2016](/post/sans-holiday-hack-challenge-2016/), I had cause to proxy the internet traffic from my phone, a [OnePlus 2](https://oneplus.net/2), through [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project), a security tool for attacking web applications.
 
-Admidst the traffic, I noticed requests to a domain which I'd not seen before, `open.oneplus.net`, and decided to examine them a little closer.
+Amidst the traffic, I noticed requests to a domain which I'd not seen before, `open.oneplus.net`, and decided to examine them a little closer.
 
 [![open.oneplus.net proxied traffic](/images/zap-oneplus-1.png)](/images/zap-oneplus-1.png)
 
