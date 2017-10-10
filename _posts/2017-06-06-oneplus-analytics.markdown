@@ -5,6 +5,16 @@ permalink: /post/oneplus-analytics/
 excerpt: We take a look at the analytics built into the OxygenOS, the flavour of Android built by phone manufacturer OnePlus.
 ---
 
+---
+
+## Update 2017-10-10
+_After gaining some traction online, Twitter user [@JaCzekanski](https://twitter.com/JaCzekanski) pointed out that there is a way to remove the OnePlus Device Manager app via adb, without requiring root (substitute `net.oneplus.odm` for `pkg`)_
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/chrisdcmoore?ref_src=twsrc%5Etfw">@chrisdcmoore</a> I&#39;ve read your article about OnePlus Analytics. Actually, you can disable it permanently: pm uninstall -k --user 0 pkg</p>&mdash; Jakub Czekański (@JaCzekanski) <a href="https://twitter.com/JaCzekanski/status/917691128807395328?ref_src=twsrc%5Etfw">October 10, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 Whilst completing the [SANS Holiday Hack Challenge 2016](/post/sans-holiday-hack-challenge-2016/), I had cause to proxy the internet traffic from my phone, a [OnePlus 2](https://oneplus.net/2), through [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project), a security tool for attacking web applications.
 
 Admidst the traffic, I noticed requests to a domain which I'd not seen before, `open.oneplus.net`, and decided to examine them a little closer.
