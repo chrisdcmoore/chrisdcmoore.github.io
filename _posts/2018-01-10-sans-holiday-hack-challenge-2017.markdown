@@ -8,8 +8,7 @@ excerpt: Every year, the folks at Counter Hack Challenges and SANS run a cyber s
 ## Introduction
 Every year, the folks at [Counter Hack Challenges](https://www.counterhackchallenges.com/) and [SANS](https://www.sans.org/) run a cyber security challenge for people to enjoy over the festive season, and once again it was great fun and very educational.
 
-Head over to [the challenge site](https://holidayhackchallenge.com/2017/) to set the scene, have a look at the questions, and have a go for yourself before reading my
-solution below!
+Head over to [the challenge site](https://holidayhackchallenge.com/2017/) to set the scene, have a look at the questions, and have a go for yourself before reading my solution below!
 
 This year's challenge came as two components: the first is the North Pole and Beyond, a game in which you progress through several levels guiding snowballs through checkpoints and over the pages of the Great Book, and tackle the terminals within those levels to earn achievements; the other is the publicly-exposed Letters to Santa system, and the internal systems behind it, which you must penetrate in order to collect the remaining pages of the Great Book and ultimately try to find out who is responsible for the villain causing the giant snowball problem.
 
