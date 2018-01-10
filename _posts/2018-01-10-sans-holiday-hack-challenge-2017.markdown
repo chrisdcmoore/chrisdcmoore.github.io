@@ -573,7 +573,7 @@ We then compile this code into a shared library and run the provided binary, for
 
 ## Letters to Santa systems
 
-It's time to our hands dirty with some actual penetration testing. We've been told that the Letters to Santa system is in scope, as well as everything on the 10.142.0.0/24 network behind it.
+It's time to get our hands dirty with some actual penetration testing. We've been told that the Letters to Santa system is in scope, as well as everything on the 10.142.0.0/24 network behind it.
 
 ### Letters to Santa
 Visitng the [Letters to Santa](https://l2s.northpolechristmastown.com/) application, we see what essentially amounts to a HTML form. Looking at the source for this page, we see there are a couple of hidden elements in the page; the first is a form input for the user to enter their US state as part of their letter, (which is of little interest to us), but the second, more interesting tidbit is a link to the [development version of the application](http://dev.northpolechristmastown.com/).
