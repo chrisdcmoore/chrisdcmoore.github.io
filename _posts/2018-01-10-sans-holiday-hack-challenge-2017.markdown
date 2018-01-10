@@ -739,7 +739,7 @@ Performing a left join of this output with the Naughty and Nice List, we discove
 
 **This is the answer to the third part of Question 5: Who is throwing the snowballs from the top of the North Pole Mountain and what is your proof?**
 
-Back in the North Pole in Beyond, in an NPC conversation with Bumble and Sam, we discover that is is the Abominable Snow Monster who has been throwing the snowballs from the top of the North Pole Mountain. However, all may not be as it seems; according to Sam the Snowman, he Abominable Snow Monster doesn't appear to be acting as himself, and he seems to be under someone else's control. The plot thickens...
+Back in the North Pole in Beyond, in an NPC conversation with Bumble and Sam, we discover that is is the Abominable Snow Monster who has been throwing the snowballs from the top of the North Pole Mountain. However, all may not be as it seems; according to Sam the Snowman, the Abominable Snow Monster doesn't appear to be acting as himself, and he seems to be under someone else's control. The plot thickens...
 
 ## Elf as a Service
 
